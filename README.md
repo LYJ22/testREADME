@@ -65,6 +65,43 @@
 + Google Vision API
 <img width="500" src="https://user-images.githubusercontent.com/79090053/121798150-a6f58600-cc5f-11eb-95c3-8cc6e2fdad59.png">
 
+## 실행 방법
+1. 프로젝트 다운로드
+    git init
+    git clone https://github.com/CSID-DGU/2021-1-OSSP2-SaJoChamChi-4.git
+
+2. 패키지 다운로드
+사전에 npm 설치 필요
++ 프로젝트 폴더에서 아래 패키지 전부 설치
+    npm install expo-cli
+    npm install @react-navigation/native
+    expo install react-native-gesture-handler
+    expo install react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+    npm install @react-navigation/stack @react-navigation/bottom-tabs
+    npm install styled-components prop-types
+    npm install react-native-keyboard-aware-scroll-view
+    npm install moment --save
+    npm install expo-barcode-scanner
+    npm install expo-notifications
+    npm install react-native-picker-select
+    npm install -g npm
+    npm install uuid
+    npm install firebase
+    npm install expo-image-picker
+    npm install --save react-native-get-random-values
+
++ 터미널에서 cd backend로 이동 후 패키지 설치
+    npm install express
+    npm install mysql
+    npm install cors
+    npm install prop-types
+
+3. IP 주소 변경
+src -> screens 폴더 안의 파일 중 XXX.XXX.XXX.XXX 를 자신의 IP주소로 변경
+    http://XXX.XXX.XXX.XXX:3344
+
+2021-1-OSSP2-SaJoChamChi-4 폴더에서 expo start, backend 폴더에서 npm start
+
 ## 팀원
  * 2017112134 이호준 (팀장)
  * 2016112144 김민석
