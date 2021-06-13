@@ -102,11 +102,6 @@
     npm install cors
     npm install prop-types
 
-IP 주소 변경
-src -> screens 폴더 안의 파일 중 XXX.XXX.XXX.XXX 를 자신의 IP주소로 변경
-
-    http://XXX.XXX.XXX.XXX:3344
-
 2021-1-OSSP2-SaJoChamChi-4 폴더에서 expo start, backend 폴더에서 npm start
 
 ## 팀원
