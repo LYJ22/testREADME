@@ -66,7 +66,7 @@
 <img width="500" src="https://user-images.githubusercontent.com/79090053/121798150-a6f58600-cc5f-11eb-95c3-8cc6e2fdad59.png">
 
 ## 실행 방법
-1. 프로젝트 다운로드
+프로젝트 다운로드
 
     git init
     git clone https://github.com/CSID-DGU/2021-1-OSSP2-SaJoChamChi-4.git
