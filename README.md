@@ -76,7 +76,8 @@
     git clone https://github.com/CSID-DGU/2021-1-OSSP2-SaJoChamChi-4.git
 
 패키지 다운로드(사전에 npm 설치 필요)
- 프로젝트 폴더에서 아래 패키지 전부 설치
+
+프로젝트 폴더에서 아래 패키지 전부 설치
 
     npm install expo-cli
     npm install @react-navigation/native
