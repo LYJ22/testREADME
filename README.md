@@ -49,11 +49,10 @@
 <img width="500" src="https://user-images.githubusercontent.com/79090053/121798324-98f43500-cc60-11eb-9c1b-84b1874ad686.PNG">
 
 ### 인식
-#### React Expo Barcode Scanner
++ React Expo Barcode Scanner
 <img width="500" src="https://user-images.githubusercontent.com/79090053/121798233-1c615680-cc60-11eb-960c-ef49466c89bf.png">
 
-#### Google Vision API
-
++ Google Vision API
 <img width="500" src="https://user-images.githubusercontent.com/79090053/121798150-a6f58600-cc5f-11eb-95c3-8cc6e2fdad59.png">
 
 ## 팀원
