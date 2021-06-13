@@ -34,10 +34,15 @@
 
 ## ScreenShots
 실제 어플 화면 이미지1 (로그인, 메인화면, 냉장고 리스트)
+
 <img width="250" src="https://user-images.githubusercontent.com/79090053/121778994-82a09780-cbd4-11eb-8643-352d765acd01.png"><img width="250" src="https://user-images.githubusercontent.com/79090053/121779185-5d605900-cbd5-11eb-8559-baa1a9e01da9.png" ><img width="250" src="https://user-images.githubusercontent.com/79090053/121779265-c8119480-cbd5-11eb-9b8a-b69bf9bef6d9.jpg">
+
 실제 어플 화면 이미지2 (게시판, 게시글, 추천 레시피)
+
 <img width="250" src="https://user-images.githubusercontent.com/79090053/121779355-2fc7df80-cbd6-11eb-86bc-10f3b01d4c22.png"><img width="250" src="https://user-images.githubusercontent.com/79090053/121779373-49692700-cbd6-11eb-8c5c-b06b95c659e3.png"><img width="250" src="https://user-images.githubusercontent.com/79090053/121779444-9b11b180-cbd6-11eb-8c5e-64d8cac095ce.jpg">
+
 실제 어플 화면 이미지3 (프로필 화면)
+
 <img width="250" src="https://user-images.githubusercontent.com/79090053/121779457-a9f86400-cbd6-11eb-91b8-4e3350c1c1de.png">
 
 ## 팀원
