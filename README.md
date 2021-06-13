@@ -53,7 +53,7 @@
 
 실제 어플 화면 이미지3 (바코드, 유통기한 인식)
 
-<img width="200" src="https://user-images.githubusercontent.com/79090053/121814629-0c239880-ccad-11eb-8246-2abbf7f69da2.png"><img width="400" src="https://user-images.githubusercontent.com/79090053/121814658-2f4e4800-ccad-11eb-88d1-04989fd5fa49.jpg">
+<img width="200" src="https://user-images.githubusercontent.com/79090053/121814629-0c239880-ccad-11eb-8246-2abbf7f69da2.png"><img width="250" src="https://user-images.githubusercontent.com/79090053/121814658-2f4e4800-ccad-11eb-88d1-04989fd5fa49.jpg">
 
 실제 어플 화면 이미지4 (프로필 화면, 좋아요 레시피 리스트)
 
