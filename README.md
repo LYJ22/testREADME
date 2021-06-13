@@ -7,33 +7,38 @@
 
 ## 기능
 1. 메인화면
-+ 냉장고
-+ 레시피 추천
-+ 게시판
-+ 내 정보
-+ 유통기한 임박식품
+    + 냉장고
+    + 레시피 추천
+    + 게시판
+    + 내 정보
+    + 유통기한 임박식품
 
 2. 냉장고
-+ 냉장고 품목 리스트
-    + 품목 추가, 수정, 삭제
+    + 냉장고 품목 리스트
+        + 품목 추가, 수정, 삭제
 
 3. 레시피 추천
-+ 유통기한 기반 추천 레시피
-+ 냉장고 재료 기반 추천 레시피
-+ 전체 레시피 리스트
+    + 유통기한 기반 추천 레시피
+    + 냉장고 재료 기반 추천 레시피
+    + 전체 레시피 리스트
 
 4. 게시판
-+ 나만의 레시피 게시글 작성, 수정, 삭제
-+ 댓글 작성, 삭제
-+ 좋아요, 좋아요 취소
+    + 나만의 레시피 게시글 작성, 수정, 삭제
+    + 댓글 작성, 삭제
+    + 좋아요, 좋아요 취소
 
 5. 내 정보
-+ 프로필 수정
-+ 좋아요 게시물 확인
-+ 로그아웃
+    + 프로필 수정
+    + 좋아요 게시물 확인
+    + 로그아웃
 
 ## ScreenShots
-<img width="250" src="https://user-images.githubusercontent.com/79090053/121778994-82a09780-cbd4-11eb-8643-352d765acd01.png"><img width="250" src="https://user-images.githubusercontent.com/79090053/121779185-5d605900-cbd5-11eb-8559-baa1a9e01da9.png" ><img width="250" src="https://user-images.githubusercontent.com/79090053/121779265-c8119480-cbd5-11eb-9b8a-b69bf9bef6d9.jpg"><img width="250" src="https://user-images.githubusercontent.com/79090053/121779355-2fc7df80-cbd6-11eb-86bc-10f3b01d4c22.png"><img width="250" src="https://user-images.githubusercontent.com/79090053/121779373-49692700-cbd6-11eb-8c5c-b06b95c659e3.png"><img width="250" src="https://user-images.githubusercontent.com/79090053/121779444-9b11b180-cbd6-11eb-8c5e-64d8cac095ce.jpg"><img width="250" src="https://user-images.githubusercontent.com/79090053/121779457-a9f86400-cbd6-11eb-91b8-4e3350c1c1de.png">
+실제 어플 화면 이미지1 (로그인, 메인화면, 냉장고 리스트)
+<img width="250" src="https://user-images.githubusercontent.com/79090053/121778994-82a09780-cbd4-11eb-8643-352d765acd01.png"><img width="250" src="https://user-images.githubusercontent.com/79090053/121779185-5d605900-cbd5-11eb-8559-baa1a9e01da9.png" ><img width="250" src="https://user-images.githubusercontent.com/79090053/121779265-c8119480-cbd5-11eb-9b8a-b69bf9bef6d9.jpg">
+실제 어플 화면 이미지2 (게시판, 게시글, 추천 레시피)
+<img width="250" src="https://user-images.githubusercontent.com/79090053/121779355-2fc7df80-cbd6-11eb-86bc-10f3b01d4c22.png"><img width="250" src="https://user-images.githubusercontent.com/79090053/121779373-49692700-cbd6-11eb-8c5c-b06b95c659e3.png"><img width="250" src="https://user-images.githubusercontent.com/79090053/121779444-9b11b180-cbd6-11eb-8c5e-64d8cac095ce.jpg">
+실제 어플 화면 이미지3 (프로필 화면)
+<img width="250" src="https://user-images.githubusercontent.com/79090053/121779457-a9f86400-cbd6-11eb-91b8-4e3350c1c1de.png">
 
 ## 팀원
  * 2017112134 이호준 (팀장)
