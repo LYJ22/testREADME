@@ -49,11 +49,11 @@
 
 실제 어플 화면 이미지2 (게시판, 전체 레시피, 유통기한/냉장고 기반 추천 레시피)
 
-<img width="200" src="https://user-images.githubusercontent.com/79090053/121779355-2fc7df80-cbd6-11eb-86bc-10f3b01d4c22.png"><img width="200" src="https://user-images.githubusercontent.com/79090053/121814579-c36bdf80-ccac-11eb-90b9-36d809ceb5c8.png"><img width="200" src="https://user-images.githubusercontent.com/79090053/121779444-9b11b180-cbd6-11eb-8c5e-64d8cac095ce.jpg">
+<img width="200" src="https://user-images.githubusercontent.com/79090053/121814773-c9ae8b80-ccad-11eb-861e-b087e01d52d7.png"><img width="200" src="https://user-images.githubusercontent.com/79090053/121814579-c36bdf80-ccac-11eb-90b9-36d809ceb5c8.png"><img width="200" src="https://user-images.githubusercontent.com/79090053/121779444-9b11b180-cbd6-11eb-8c5e-64d8cac095ce.jpg">
 
 실제 어플 화면 이미지3 (바코드, 유통기한 인식)
 
-<img width="200" src="https://user-images.githubusercontent.com/79090053/121814629-0c239880-ccad-11eb-8246-2abbf7f69da2.png"><img width="200" src="https://user-images.githubusercontent.com/79090053/121814658-2f4e4800-ccad-11eb-88d1-04989fd5fa49.jpg">
+<img width="200" src="https://user-images.githubusercontent.com/79090053/121814629-0c239880-ccad-11eb-8246-2abbf7f69da2.png"><img width="400" src="https://user-images.githubusercontent.com/79090053/121814658-2f4e4800-ccad-11eb-88d1-04989fd5fa49.jpg">
 
 실제 어플 화면 이미지4 (프로필 화면, 좋아요 레시피 리스트)
 
